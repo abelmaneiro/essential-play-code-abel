@@ -17,4 +17,8 @@ dist
 /.settings
 *.sublime-project
 *.sublime-worksp
-
+/*/.g8/*
+build.gradle
+/*/gradlew
+/*/gradlew.bat
+/*/gradle/*
